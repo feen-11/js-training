@@ -7,7 +7,7 @@ console.log('解答: 0 == false, true');
 console.log('0 === false', 0 === false);
 console.log('解答:0 === false, false');
 console.log('"false" == false', 'false' == false);
-console.log('解答:false == false, true'); //確認
+console.log('解答:false == false, false'); //確認
 console.log('"0" == 0', '0' == 0);
 console.log('解答:"0" == 0, true');
 console.log('Boolean("0") === false', Boolean('0') === false); //確認
